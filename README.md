@@ -130,12 +130,6 @@
     </td>
     <td align="center" width="96">
       <a href="#12xpress12" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#12xpress12" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="PhotoShop" />
       </a>
       <br>PhotoShop
