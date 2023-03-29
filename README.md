@@ -1,38 +1,28 @@
-<h1 align="left">Hello 👋! I'm Denis 'Invouker'</h1>
-
-
+<h1 align="left">Hello 👋! I'm Denis 'Invouker'.</h1>
 <p align="left">
   <a href="https://github.com/Invouker/Invouker">
      <img src="https://komarev.com/ghpvc/?username=Invouker" />
   </a>
-
   <a href="https://stackoverflow.com/users/9480223">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9480223?color=orange&label=reputation&logo=stackoverflow">
   </a>
-<!--
-  <a href="https://reddit.com/u/Invouker">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/7xpress7">
-  </a>-->
   <a href="https://github.com/Invouker?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Invouker?color=green&logo=github">
-  </a>
- 
+  </a> 
 </p>
+👋 Hi, my name on the internet is 'Invouker', but my real name is Denis.
 
+:seedling:  I’m currently learning Spring MVC and C#.
 
+:seedling:  I'm a fan of Java.
 
-- 👋 Hi, my name on internet is 'Invouer' but my real name is Denis
-- :seedling: &nbsp;I’m currently learning Spring MVC, C# <!--**C#,Unity,Blender**-->
-- :seedling: &nbsp;Fanboy of Java
-- :mailbox: &nbsp;If u wish contact me, then my e-mail is: invouk@gmail.com
+:mailbox:  If you wish to contact me, my email is invouk@gmail.com.
 
-     - SourcePawn SAMP, I started there my programmer carrier
-     - I currenctly stopped my works spigot/paper plugins 
-     - Currenctly started with spring framework and mvc
-     - Blender - Is not a language but is a building base of game developer for creating a object, characters and level designing!
-<br>
-🏝️🏝️ Trying new things, new comination, new mind blowing thinks is very important in our life, I like it too much as I can! 🏝️🏝️
-<br>
+- SourcePawn SAMP: I started my programmer career there.
+- I'm currently not working on spigot/paper plugins.
+- This time my project is* Spring framework and MVC.
+<!--Blender: It's not a language, but it's a building base for game developers for creating objects, characters, and level designing!-->
+🏝️🏝️ Trying new things, new combinations, and new mind-blowing things is very important in our life. I like it too much as I can! 🏝️🏝️
 
 <h2 align="left">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
